@@ -1,0 +1,6 @@
+﻿Person,Organization,Relationship label,Date / status,Source IDs,Confidence,Analyst note
+Michele Romanow,Clearco (formerly Clearbanc),Executive Chairman of,Since 2023-01; current per reviewed profiles,S01; S04; S05,High,Relationship is supported by reviewed institutional/corporate profiles. Recheck current status before publication.
+Michele Romanow,SnapSaves,Co-founder of,Founded March 2012 per Vail Resorts profile,S01; S04; S05,High,"Use SnapSaves as the canonical node name. The later Snap/Groupon reference is retained in the claim register, not as a second entity."
+Michele Romanow,Vail Resorts,Director of,Director since 2016-10; elected 2025-12,S01; S05; S06,High,Historical/current status should be rechecked after the next annual meeting before publication.
+Michele Romanow,"Smith School of Business, Queen's University",Advisory-board member of,Current as stated in reviewed profiles; start/end dates not given,S01; S04,High for relationship label,Use the specific advisory-board description; do not label this as director of Queen's University.
+Michele Romanow,Buytopia.ca,Co-founder of,Queen's reports a 2010 launch; Vail lists 2011-2014 co-founder period; CSE filing says founded Feb 2011,S01; S04; S14; S17,High for association; medium for exact date,Historical co-founder association is supported. Do not call 2010 or 2011 the legal incorporation date.
