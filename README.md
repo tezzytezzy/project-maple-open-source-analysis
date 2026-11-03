@@ -32,6 +32,22 @@ The accompanying workbook contains the source register, claim register, claim-re
 
 The central analytical discipline is to distinguish **what a source states**, **what can be corroborated**, and **what remains unresolved**. An edge represents a sourced relationship, not an allegation or a conclusion about conduct.
 
+## Maltego visualisation
+
+The three figures below are intended to document the graph at different levels: the complete network, the 2026 amalgamation relationships, and the source evidence behind an individual link.
+
+### 1. Complete network
+
+![Project Maple complete Maltego network](screenshots/complete-network.png)
+
+### 2. Emerge Golf Ltd. amalgamation
+
+![Four predecessor corporations amalgamated to form Emerge Golf Ltd.](screenshots/organization-detail-view.png)
+
+### 3. Relationship evidence
+
+![Selected Maltego relationship with supporting source and date details](screenshots/link-detail-view.png)
+
 ## Sources consulted
 
 Source IDs correspond to the workbook's **Source Register**. The register records source type, date, URL, supported claims, limitations, assessment, and review status.
@@ -70,12 +86,16 @@ Source IDs correspond to the workbook's **Source Register**. The register record
 - `Project_Maple_Source_Register.xlsx` — source and claim registers, reconciliation, review summary, and edge candidates.
 - `Project_Maple_Person_Relationships.csv` — selected person-to-organization edges.
 - `Project_Maple_Organization_Relationships.csv` — selected organization-to-organization edges.
-- `screenshots/` — final Maltego map and selected evidence-detail views.
+- `screenshots/complete-network.png` — complete Maltego network.
+- `screenshots/organization-detail-view.png` — close-up of the four predecessor-to-successor relationships.
+- `screenshots/link-detail-view.png` — selected relationship and its supporting source/date details.
 
 ## Scope and limitations
 
 The project uses public professional and corporate information. It does not examine private life, make allegations, or claim to be a comprehensive background investigation. Registry details for S18 were transcribed from the Ontario Business Registry profile captured during the project. S20 is identified by document title and page because the working copy was supplied as a PDF. The map is a selective visualization; the workbook remains the detailed audit trail.
 
 ## Licence
+
+**Recommended: CC BY 4.0 for original project documentation, analysis notes, and diagrams.** MIT is primarily a software licence and is not the best fit for this research repository. If original scripts or code are added later, those may be separately licensed under MIT.
 
 Third-party source documents, logos, trademarks, and other material remain subject to their owners' rights and terms. The project licence does not relicense or grant permission to redistribute third-party material. See [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
